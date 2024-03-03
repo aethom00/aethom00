@@ -1,23 +1,6 @@
-<!-- ### Hi there 👋
+# Hi, my name is Ashton Thomas
 
-
-**aethom00/aethom00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, my name is [Your Name] ✨
-
-I'm a [Your Job Title/Role] passionate about [Your Interests]. Here's a quick overview of my skills:
+I'm a College student at the University of Michigan passionate about mapping and software.
 
 ## Languages and Tools 🛠️
 
@@ -27,9 +10,9 @@ I'm a [Your Job Title/Role] passionate about [Your Interests]. Here's a quick ov
 
 ## Contact Me 📫
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](Your Email)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aethom)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](aethom@umich.edu)
 
 ## My GitHub Stats 📈
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aethom00&show_icons=true)

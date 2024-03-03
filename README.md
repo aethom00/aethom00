@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center"> Contact ME 📫 </h2>
-<p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
+<p align = "center">Are you a recruiter? Email me to access my private repositories </p>
 
 <p align="center">
   <a href="mailto: aethom@umich.edu">

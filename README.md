@@ -34,6 +34,6 @@
   </a> 
 </p>
 
-<p align=center>  
+<!-- <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=aethom00&show_icons=true&count_private=true">
-</p>
+</p> -->
